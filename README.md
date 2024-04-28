@@ -19,7 +19,6 @@ This is a simple keylogger script written in Python. It uses the pynput library 
 Run the `keylogger.py` script:
 
   python keylogger.py
-
   
 The script will start recording keystrokes and store them in a file named `keylog.txt`.
 
