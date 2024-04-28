@@ -9,8 +9,9 @@ This is a simple keylogger script written in Python. It uses the pynput library 
   git clone https://github.com/Gowthammax007/Keylogger-Project-Naan-Mudhalvan.git
 
 2. Install the required dependencies:
- 
+
   pip install pynput
+
   pip install jsonlib
 
 ## Usage
